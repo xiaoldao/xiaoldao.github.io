@@ -1,22 +1,22 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "冷明阳 - 个人主页"  
+excerpt: "About me"  
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
- 
+# 冷明阳
+## 基本信息
+- 性别：男
+- 出生日期：2006年10月23日
+- 学号：241051014
+- 学院：新闻传播学院
+- 专业：大数据传播实验班
+- 邮箱：241051014@smail.nju.edu.cn
+- 个人网址：<a href="https://xiaoldao.github.io/" target="_blank">https://xiaoldao.github.io/</a>
 
-Welcome to the Socrates Lab! We are a small research team affiliated with the Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
-
-Github: https://github.com/socratesclub
-
-## People
-### Directer
-- Cheng-Jun Wang https://chengjun.github.io/
-
-
-🖋[Revise this page](https://github.com/SocratesGroup/socratesgroup.github.io/edit/master/_pages/about.md)
+## 个人简介
+本人就读于南京大学新闻传播学院大数据传播实验班，聚焦大数据传播领域的学习与实践，探索数据技术在新闻传播场景中的应用与创新。
