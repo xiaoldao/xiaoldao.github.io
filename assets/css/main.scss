@@ -39,34 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-/* 强制隐藏顶部导航栏 */
-.masthead {
-  display: none !important;
-}
-
-/* 强制让主内容占满宽度 */
-.main-content {
-  width: 100% !important;
-  max-width: 1200px !important;
-  margin: 0 auto !important;
-  padding: 3rem !important;
-}
-
-/* 全局背景图片（优先级最高） */
-html, body {
-  background-image: url('https://picsum.photos/id/1073/1920/1080') !important;
-  background-size: cover !important;
-  background-position: center center !important;
-  background-attachment: fixed !important;
-  background-repeat: no-repeat !important;
-  background-color: #f5f5f5 !important;
-  min-height: 100vh !important;
-}
-
-/* 内容区域半透明背景，保证文字清晰 */
-.page__content {
-  background-color: rgba(255, 255, 255, 0.95) !important;
-  padding: 2rem !important;
-  border-radius: 10px !important;
-  box-shadow: 0 2px 15px rgba(0,0,0,0.1) !important;
-}
