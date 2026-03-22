@@ -25,6 +25,6 @@ Github: https://github.com/xiaoldao
 ## 教育背景 | Education
 ### 本科阶段
 - 南京大学 新闻传播学院 大数据传播实验班 | 2024年9月 - 至今
-  - 核心课程：传播学概论、数据结构与算法、计算传播学、数据可视化等
+  - 核心课程：新闻学原理，信息组织，信息检索，数智传播导论等
 
-🖋[Revise this page](https://github.com/xiaoldao/xiaoldao.github.io/edit/main/_pages/about.md)
+
