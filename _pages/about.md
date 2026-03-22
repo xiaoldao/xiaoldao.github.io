@@ -1,20 +1,30 @@
 ---
-layout: single
-title: "冷明阳 - 个人主页"
-permalink: /about/
+permalink: /
+title: "冷明阳 - 南京大学大数据传播实验班"
+excerpt: "关于我"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-# 冷明阳
+Welcome to my personal homepage! I am an undergraduate student at the School of Journalism and Communication, Nanjing University, majoring in Big Data Communication.
 
-## 基本信息
-- 性别: 男
-- 出生日期: 2006年10月23日
-- 学号: 241051014
-- 学院: 新闻传播学院
-- 专业: 大数据传播实验班
-- 邮箱: 241051014@smail.nju.edu.cn
-- 个人网址: https://xiaoldao.github.io/
+Github: https://github.com/xiaoldao
 
-## 个人简介
-本人就读于南京大学新闻传播学院大数据传播实验班，聚焦大数据传播领域的学习与实践，探索数据技术在新闻传播场景中的应用与创新。
+## 基本信息 | Basic Information
+### 个人简介
+- 姓名：冷明阳
+- 性别：男
+- 出生日期：2006年10月23日
+- 学号：241051014
+- 学院：南京大学新闻传播学院
+- 专业：大数据传播实验班
+- 邮箱：241051014@smail.nju.edu.cn
+
+## 教育背景 | Education
+### 本科阶段
+- 南京大学 新闻传播学院 大数据传播实验班 | 2024年9月 - 至今
+  - 核心课程：传播学概论、数据结构与算法、计算传播学、数据可视化等
+
+🖋[Revise this page](https://github.com/xiaoldao/xiaoldao.github.io/edit/main/_pages/about.md)
