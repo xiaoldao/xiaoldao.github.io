@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 <style>
-  body { background: url("bg.jpg") no-repeat center; background-size: cover; }
+  body { background: url("/images/bg.jpg") no-repeat center; background-size: cover; }
 </style>
+
 Welcome to my personal homepage! I am an undergraduate student at the School of Journalism and Communication, Nanjing University, majoring in Big Data Communication.
 
 Github: https://github.com/xiaoldao
