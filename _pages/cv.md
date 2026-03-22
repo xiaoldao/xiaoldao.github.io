@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "简历 | CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# 个人简历 | Curriculum Vitae
 
-Work experience
+## 获奖经历 | Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024-2025学年：国家励志奖学金
+  * 获奖说明：基于学业成绩、综合素质及家庭经济情况评定，全院仅部分学生获此荣誉
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+## 实践经历 | Work Experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 2024年9月 - 2025年6月：南京大学学生公寓办公室助理
+  * 工作内容：协助宿管进行寝室查房、环境清洁、黑板报设计
+  * 收获：提升沟通协调能力和动手操作能力
+* 2025年9月 至今：南京大学图书馆学生助理
+  * 工作内容：书目归位与整理
+  * 收获：锻炼动手能力
+* 2025年寒假/暑假：七彩学堂机构 临时讲师
+  * 授课内容：面向中学生进行课程教育
+  * 授课时长：累计授课100+课时，覆盖超50名学生
+  * 收获：锻炼表达能力和教育能力
+
+
+## 项目经历 | Project Experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* 2025年：参与「南星梦想计划」
+  * 项目角色：核心成员
+  * 项目内容：为母校学生讲解南大的教育、环境、录取标准等
+
+
+## 技能 | Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 数据处理：C++、SQL、python等
+* 专业能力：新闻学原理，信息检索，信息组织，数据库原理与应用
+* 通用技能：Office办公套件、文案写作、演讲表达
